@@ -1,5 +1,5 @@
 {
-  "name": "hotel-room-reservation",
+  "name": "hotel-room-reservation-system",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:hotel-room-reservation": "node dist/hotel-room-reservation/server/server.mjs"
+    "serve:ssr:hotel-room-reservation": "node dist/hotel-room-reservation-system/server/server.mjs"
   },
   "private": true,
   "dependencies": {
